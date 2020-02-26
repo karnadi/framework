@@ -43,7 +43,7 @@ class Kint
      * @var mixed Kint mode
      *
      * false: Disabled
-     * true: Enabled, default mode selection
+     * true: Enabled, default mode selectionpull request
      * other: Manual mode selection
      */
     public static $enabled_mode = true;
